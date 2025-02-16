@@ -1,7 +1,6 @@
 # DL_Classification_CIFAR
-DL_Classification_CIFAR
 
-# 📷 Classification d'Images avec CNN sur CIFAR-10
+# Classification d'Images avec CNN sur CIFAR-10
 
 Ce projet implémente un **CNN** pour classer des images du dataset **CIFAR-10** en 10 classes :  
 `['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']`.
